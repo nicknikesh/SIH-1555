@@ -29,6 +29,8 @@ Interact, bookmark, take notes, and spread awareness via social platforms
 
 ## Proposed Solution / Architecture Diagram
 
+ Proposed Solution:
+
 Sanjeevani 3D is not just a platform; it is a living, breathing digital sanctuary where the timeless wisdom of ancient herbal medicine intertwines seamlessly with the marvels of modern 3D technology. It invites users to step beyond mere information and embark on a multisensory journey — touching, seeing, hearing, and discovering the secrets held by each medicinal plant.
 
 At its core, Sanjeevani 3D offers a rich, immersive experience: lifelike 3D models of herbal plants, rendered with meticulous attention to detail — from the delicate veins on a leaf to the vibrant hues of a flower’s bloom. These models are complemented by interactive storytelling, where every plant reveals its story through engaging audio-visual narratives. Users learn about the plant’s therapeutic properties, traditional uses, ideal growing conditions, and cultural significance — all wrapped in beautifully narrated tales that stir curiosity and respect for nature’s pharmacy.
@@ -40,6 +42,12 @@ Engagement thrives through interactive features — users can bookmark favorite 
 Behind this enchanting experience is a robust technological backbone: a dynamic backend architecture that supports seamless user profile management, real-time analytics of user engagement, and continuous content updates. The vast multimedia library — including 3D assets, videos, and soundscapes — is delivered swiftly via cloud storage and content delivery networks, ensuring smooth and uninterrupted exploration across devices.
 
 Ultimately, Sanjeevani 3D is a digital revival — a heartfelt tribute to AYUSH’s ancient healing traditions, reborn in a form accessible to the modern seeker. It bridges centuries of knowledge with tomorrow’s technology, making herbal wisdom not just a relic of the past, but a vibrant, living guide to health and harmony in today’s world.
+
+# Architecture Diagram :
+
+![architecture diagram](https://github.com/user-attachments/assets/68b1f807-1975-4abb-acdf-cb72ea4d02ca)
+
+
 ## Use Cases
 ![sanjeevani 3D](https://github.com/user-attachments/assets/325090ba-7e76-4096-b488-1bd779826704)
 
